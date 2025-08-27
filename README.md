@@ -17,4 +17,4 @@ Still in testing phase
   - `!beautify -translate` → translates the text into a target language
 
 
-*Personal bot mode: If the free tier window seems to run out too quickly then, will probably make this a personal bot (that will respond only to requests from personal account/s) to saves AI cost (fits free-tier limits for these features -translation, artical summery from a link etc...)*
+*Personal bot mode: If the free tier window seems to run out too quickly then, will probably make this a personal bot (that will respond only to requests from personal account/s) to saves AI cost (fits free-tier limits for features like translation, artical summery from a link etc...)*
