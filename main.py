@@ -96,7 +96,7 @@ class Config:
     REDDIT_USER_AGENT = os.getenv("reddit_user_agent")
 
     # BOT SETTINGS
-    SUBREDDITS = "developersIndia"   #My_Sandbox, IMadeThis
+    SUBREDDITS = "test"   # IMadeThis
     MIN_POST_LENGTH = 1000
     MAX_POST_LENGTH = 15000
     COMMENT_DELAY = 2
