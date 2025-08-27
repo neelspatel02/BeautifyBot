@@ -1,4 +1,4 @@
-# BeautifyBot 📝
+# BeautifyBot 
 
 A Reddit bot that improves readability of text posts using AI.
 
@@ -9,7 +9,7 @@ A Reddit bot that improves readability of text posts using AI.
 
 Still in testing phase
 
-## 🔮 Future Features
+## Future Features
 - Queuing system for handling multiple requests at once
 - Support for replies and posts with media (links, photos, videos) + long body text
 - Parameterized commands:
